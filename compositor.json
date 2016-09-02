@@ -40,6 +40,22 @@
         {
           "href": "https://github.com/brianzelip/Human.Data",
           "text": "GitHub"
+        },
+        {
+          "href": "http://www.hshsl.umaryland.edu",
+          "text": "HS/HSL"
+        }
+        {
+          "href": "http://www.law.umaryland.edu/marshall/",
+          "text": "Thurgood Marshall Law Library"
+        },
+        {
+          "href": "http://www.ssw.umaryland.edu/",
+          "text": "School of Social Work"
+        },
+        {
+          "href": "http://www.medschool.umaryland.edu/Epidemiology/",
+          "text": "Public Health"
         }
       ]
     },
