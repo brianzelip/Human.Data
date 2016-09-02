@@ -85,16 +85,7 @@
     },
     {
       "component": "footer",
-      "links": [
-        {
-          "href": "https://github.com/brianzelip/Human.Data",
-          "text": "GitHub"
-        },
-        {
-          "href": "https://github.com/brianzelip",
-          "text": "brianzelip"
-        }
-      ]
+      "links": []
     }
   ]
 }
