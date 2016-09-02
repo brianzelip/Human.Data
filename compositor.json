@@ -1,0 +1,84 @@
+{
+  "name": "brianzelip/Human.Data",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.21"
+  },
+  "title": "Human.Data @ UMB",
+  "branch": "",
+  "style": {
+    "name": "Humanist",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/LightBannerHeader",
+      "article": "article/ReaderArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Athelas, Georgia, serif",
+    "heading": {
+      "fontWeight": 400,
+      "textTransform": "uppercase",
+      "letterSpacing": "0.1em"
+    },
+    "colors": {
+      "text": "#121212",
+      "background": "#fff",
+      "primary": "#ee5544",
+      "secondary": "#005499",
+      "highlight": "#00bd78",
+      "border": "#ddd",
+      "muted": "#f3f3f3"
+    },
+    "layout": {
+      "maxWidth": 768
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/brianzelip/Human.Data",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "Human.Data",
+      "subhead": "Law, Social Work, Public Health, and Libraries at University of Maryland, Baltimore",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "Human.Data: Law, Social Work, Public Health, and Libraries at University of Maryland, Baltimore",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "brianzelip",
+          "repo": "Human.Data"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "<h1>Human.Data @ University of Maryland, Baltimore</h1>\n<h2>Law, Social Work, Public Health, and Libraries</h2>\n<p><strong>work in progress</strong></p>\n<p>Idea: Data summit featuring the Law Library, Social Work, Public Health, and HS/HSL</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/brianzelip/Human.Data",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/brianzelip",
+          "text": "brianzelip"
+        }
+      ]
+    }
+  ]
+}
