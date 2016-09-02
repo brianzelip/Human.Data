@@ -37,7 +37,7 @@
     {
       "component": "header",
       "heading": "Human.Data",
-      "subhead": "Law, Social Work, Public Health, and Libraries at University of Maryland, Baltimore",
+      "subhead": "Law, Social Work, Public Health, and Libraries at the University of Maryland, Baltimore",
       "children": [
         {
           "component": "ui/TweetButton",
