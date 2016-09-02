@@ -1,8 +1,5 @@
-# Human.Data @ University of Maryland, Baltimore
-## Law, Social Work, Public Health, and Libraries
+## Human.Data @ UMB
 
+> Data summit featuring the Law Library, Social Work, Public Health, and HS/HSL
 
 **work in progress**
-
-Idea: Data summit featuring the Law Library, Social Work, Public Health, and HS/HSL
-
