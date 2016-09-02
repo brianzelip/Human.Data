@@ -35,6 +35,23 @@
   },
   "content": [
     {
+      "component": "header",
+      "heading": "Human.Data",
+      "subhead": "Law, Social Work, Public Health, and Libraries at University of Maryland, Baltimore",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "Human.Data: Law, Social Work, Public Health, and Libraries at University of Maryland, Baltimore",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "brianzelip",
+          "repo": "Human.Data"
+        }
+      ]
+    },
+    {
       "component": "nav",
       "links": [
         {
@@ -52,23 +69,6 @@
         {
           "href": "http://www.medschool.umaryland.edu/Epidemiology/",
           "text": "Public Health"
-        }
-      ]
-    },
-    {
-      "component": "header",
-      "heading": "Human.Data",
-      "subhead": "Law, Social Work, Public Health, and Libraries at University of Maryland, Baltimore",
-      "children": [
-        {
-          "component": "ui/TweetButton",
-          "text": "Human.Data: Law, Social Work, Public Health, and Libraries at University of Maryland, Baltimore",
-          "url": null
-        },
-        {
-          "component": "ui/GithubButton",
-          "user": "brianzelip",
-          "repo": "Human.Data"
         }
       ]
     },
