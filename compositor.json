@@ -37,7 +37,7 @@
     {
       "component": "header",
       "heading": "Human.Data",
-      "subhead": "Law, Social Work, Public Health, and Libraries at University of Maryland, Baltimore",
+      "subhead": "Law, Social Work, Public Health, and Libraries at the University of Maryland, Baltimore",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -77,7 +77,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "<h1>Human.Data @ University of Maryland, Baltimore</h1>\n<h2>Law, Social Work, Public Health, and Libraries</h2>\n<p><strong>work in progress</strong></p>\n<p>Idea: Data summit featuring the Law Library, Social Work, Public Health, and HS/HSL</p>\n"
+      "html": "<h2>Human.Data @ UMB</h2>\n<blockquote>\n<p>Data summit featuring the Law Library, Social Work, Public Health, and HS/HSL</p>\n</blockquote>\n<p><strong>work in progress</strong></p>\n"
     },
     {
       "component": "footer",
