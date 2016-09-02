@@ -38,10 +38,6 @@
       "component": "nav",
       "links": [
         {
-          "href": "https://github.com/brianzelip/Human.Data",
-          "text": "GitHub"
-        },
-        {
           "href": "http://www.hshsl.umaryland.edu",
           "text": "HS/HSL"
         },
