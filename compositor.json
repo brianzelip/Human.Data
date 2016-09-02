@@ -77,7 +77,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "<h1>Human.Data @ UMB</h1>\n<blockquote>\n<p>Data summit featuring the Law Library, Social Work, Public Health, and HS/HSL</p>\n</blockquote>\n<p><strong>work in progress</strong></p>\n"
+      "html": "<h2>Human.Data @ UMB</h2>\n<blockquote>\n<p>Data summit featuring the Law Library, Social Work, Public Health, and HS/HSL</p>\n</blockquote>\n<p><strong>work in progress</strong></p>\n"
     },
     {
       "component": "footer",
